@@ -1,2 +1,4 @@
 This is manual file.
 Modified 1
+Modified 2
+testing stage & unstage situation
