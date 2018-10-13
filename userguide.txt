@@ -1,8 +1,0 @@
-This is manual file.
-Modified 1
-Modified 2
-testing stage & unstage situation
-
-Staged vs Un-Staged
-
-test git rm
